@@ -1,4 +1,4 @@
-## README
+## Plantilla CV
 
 Plantilla de prototipo para la creación de un Curriculum Vitae con Html y CSS.
 
