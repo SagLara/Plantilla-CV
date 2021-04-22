@@ -11,6 +11,9 @@ Vista:
 ![](https://github.com/SagLara/Plantilla-CV/blob/master/img/plantilla1-rm.JPG)
 
 ![](https://github.com/SagLara/Plantilla-CV/blob/master/img/plantilla2-rm.JPG)
+
+
+
 Los iconos en su mayoria son del Kit de inicio gratuito de Font Awesome.
 
 Su diseño fue inspirado en este video: [How to create Resume CV website using HTML and CSS](https://www.youtube.com/watch?v=riPiyepFXF0&t=1328s)
